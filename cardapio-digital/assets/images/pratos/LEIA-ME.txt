@@ -1,0 +1,23 @@
+========================================
+  COLOQUE SUAS IMAGENS AQUI
+========================================
+
+Nomes esperados para cada prato:
+  pizza-margherita.jpg   → id "1"
+  x-burguer.jpg          → id "2"
+  macarrao-bolonhesa.jpg → id "3"
+  frango-grelhado.jpg    → id "4"
+  coca-cola.jpg          → id "5"
+  sorvete-chocolate.jpg  → id "6"
+  pizza-pepperoni.jpg    → id "7"
+  suco-laranja.jpg       → id "8"
+  salada-caesar.jpg      → id "9"
+  costela-bbq.jpg        → id "10"
+  brownie-sorvete.jpg    → id "11"
+  wrap-frango.jpg        → id "12"
+
+Formatos aceitos: .jpg, .jpeg, .png, .webp
+
+Depois de colocar os arquivos, vá em home.tsx e
+descomente as linhas no objeto imagensLocais.
+========================================
